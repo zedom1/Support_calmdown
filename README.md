@@ -1,8 +1,4 @@
-## 静静app技术支持服务
-
-what is 静静：
-
-静静 - 一分钟冷静助手
+## One Calm (静静)app技术支持服务
 
 联系我们 Contact us： appfoxin@126.com
 
